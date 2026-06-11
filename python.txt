@@ -1,0 +1,9 @@
+# Simple Python Program
+
+print("Hello, Dipankar!")
+
+# Adding two numbers
+a = 5
+b = 10
+print("Sum is:", a + b)
+``
